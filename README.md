@@ -1,4 +1,4 @@
-##This travel chatbot application was created in order to complete the Future Ready Talent Internship programme, which was launched by Microsoft, Future Skills Prime, Quess, Github, and EY.
+**This travel chatbot application was created in order to complete the Future Ready Talent Internship programme, which was launched by Microsoft, Future Skills Prime, Quess, Github, and EY.**
 
 Concerning the project
 
@@ -8,7 +8,7 @@ This chatbot empowers your customers to book flights, hotels, and car rentals. F
 
 
 
-##This bot can help you with a variety of tasks.
+**This bot can help you with a variety of tasks.**
 
 1.Reservations and cancellations
 
@@ -18,7 +18,7 @@ This chatbot empowers your customers to book flights, hotels, and car rentals. F
 
 4.Any and all booking-related questions
 
-#SCREENSHOTS
+***SCREENSHOTS***
 ![Screenshot (146)](https://user-images.githubusercontent.com/90378051/156025121-00f8e14e-46a7-44c9-894f-62a9c8a518c8.png)
 ![Screenshot (147)](https://user-images.githubusercontent.com/90378051/156025159-f58bcce7-a357-42bc-af6b-f5c42fafb064.png)
 ![Screenshot (148)](https://user-images.githubusercontent.com/90378051/156025188-2945219b-06ae-43c1-bb42-4ac2a1411455.png)
